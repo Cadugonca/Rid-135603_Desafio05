@@ -1,7 +1,7 @@
 # 📚 Desafio 05 - API Biblioteca (RID-135603)
 
 Este é o projeto desenvolvido para o Desafio 05 da DNC, que consiste em criar uma **API REST em Node.js com Express** e integrá-la com um **front-end em React**. A aplicação simula o sistema de uma biblioteca online.
-
+dispoivel no site: https://classy-cuchufli-585474.netlify.app/
 ---
 
 ## 🚀 Tecnologias Utilizadas
